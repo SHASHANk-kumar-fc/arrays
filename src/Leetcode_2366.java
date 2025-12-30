@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
 public long minimumReplacement(int[] nums) {
     int prev=nums[nums.length-1];
     long count=0;
